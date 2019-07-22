@@ -10,9 +10,9 @@ Functions used in All_expln_transparency.java
 6.dislike_recommended(name_index)
 7.compromise()
 
-name_index = 0 //John
-name_index = 1 //Adam
-name_index = 2 //Mary
+name_index = 0 is John; 
+name_index = 1 is Adam;
+name_index = 2 is Mary
 
 Output of transparent explanation for name_index = 1
 Output of function 1 :
