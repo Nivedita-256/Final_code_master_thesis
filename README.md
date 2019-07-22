@@ -83,4 +83,24 @@ place --> places D, E, F and H
 singular_string
 place --> place C
 
+places_for_situation
+Logic
+middle = recommended sequence length / 2
+
+1. for the recommended sequence of item, find the rating of adam from ratingnow variable
+2. assign the rating found to rating_compare
+
+for the items present in the first half of the sequence
+3. if (rating_compare >=7) then assign to like_recommended array
+4. if (rating_compare < 7) then assign to dislike_recommended array
+
+for the items present in the second half of the sequence
+5. if (rating_compare >=7) then assign to recommended not in preferred order array
+6. if (rating_compare < 7) then assign to dislike_recommended array
+
+if the rating value is greater than or equal to 7 and not present in the recommended sequence,
+assign it to never recommended array.
+
+Then use these arrays in the functions to generate explanations
+
 
