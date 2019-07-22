@@ -35,6 +35,7 @@ Finally, G is(are) rated moderately or low by you or other members in the group 
 
 Output of function 7 :
 Although you are recommended the places you don’t like, you get to visit places you love first. Furthermore, almost all group members, are compromising in similar situations of disagreement like these to satisfy the group. Hence this method is the best way to maximize the group's satisfaction.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Functions used in All_expln_privacy.java
