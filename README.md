@@ -1,4 +1,6 @@
 # Final_code_master_thesis
+Download the jar files using the link found in the text file simple NLG download.txt
+
 Generation of template based Explanations using simpleNLG
 Functions used in All_expln_transparency.java
 
