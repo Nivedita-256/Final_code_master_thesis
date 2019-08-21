@@ -89,6 +89,13 @@ places_for_situation
 Logic
 middle = recommended sequence length / 2
 
+We have assumed,
+1,2,3,4 = Low rating;
+5,6 = moderate rating;
+7,8,9,10 - high rating
+
+
+
 1. for the recommended sequence of item, find the rating of adam from ratingnow variable
 2. assign the rating found to rating_compare
 
